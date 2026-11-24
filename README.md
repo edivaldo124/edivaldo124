@@ -15,7 +15,7 @@ Meu foco é back-end em **Python/Flask** com PostgreSQL. Também faço integraç
 | [**AgroSolo**](https://github.com/edivaldo124/AgroSolo) | Monitoramento de solo (umidade, pH, NPK…) com sensor RS485 7 em 1 lido por ESP32 | ESP32, Modbus RTU, Flask |
 | [**QuickMast**](https://github.com/edivaldo124/QuickMast) | Plataforma de testes de mastite em vacas, com sensor em ESP8266 enviando leituras para a API | ESP8266, Flask, PostgreSQL, React + Vite |
 | [**AgroData**](https://github.com/edivaldo124/agrodata) | Meu TCC, aprovado com nota máxima: coleta e análise de dados climáticos para fruticultura | ESP32, Flask, SQLite |
-| [**Sentinela**](https://github.com/edivaldo124/sentinelaC-) | Ambiente mais seguro para idosos: sensores de presença e de gás, botão de alerta e aviso pelo Telegram. Selecionado para o CONNEPI 2026 | ESP32, IoT, API do Telegram |
+| [**Sentinela**](https://github.com/edivaldo124/sentinelaC-) | Ambiente mais seguro para idosos: sensores de presença e de gás, botão de alerta e aviso pelo Telegram. Selecionado para o CONNEPI 2026 | ESP8266, IoT, API do Telegram |
 
 ### 🛠️ Ferramentas
 

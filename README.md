@@ -21,12 +21,12 @@ Meu foco é back-end em **Python/Flask** com PostgreSQL. Também faço integraç
 
 ### 🛠️ Ferramentas
 
-**Back-end:** Python · Flask · SQLAlchemy · PostgreSQL · MySQL · SQLite · Java (estudando Spring Boot)
-**Front-end:** HTML · CSS · JavaScript · TypeScript · React · Tailwind · Figma
-**Integrações:** Mercado Pago (Pix e cartão) · Gmail API · Google Maps · Google Analytics · Brevo
-**Infra:** Linux · Docker · Nginx/Caddy · Render · Vercel · Supabase
-**IoT:** ESP32 · ESP8266 · sensores · Modbus RTU
-**Estudando agora:** Flutter, Spring Boot, Docker e Nginx
+- **Back-end:** Python · Flask · SQLAlchemy · PostgreSQL · MySQL · SQLite · Java (estudando Spring Boot)
+- **Front-end:** HTML · CSS · JavaScript · TypeScript · React · Tailwind · Figma
+- **Integrações:** Mercado Pago (Pix e cartão) · Gmail API · Google Maps · Google Analytics · Brevo
+- **Infra:** Linux · Docker · Nginx/Caddy · Render · Vercel · Supabase
+- **IoT:** ESP32 · ESP8266 · sensores · Modbus RTU
+- **Estudando agora:** Flutter, Spring Boot, Docker e Nginx
 
 ### 📫 Contato
 

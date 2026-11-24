@@ -4,13 +4,11 @@ Desenvolvedor web full stack em São José da Lagoa Tapada, na Paraíba. Faço o
 
 Meu foco é back-end em **Python/Flask** com PostgreSQL. Também faço integração de pagamentos (Pix e cartão pelo Mercado Pago) e projetos de **IoT com ESP32/ESP8266**.
 
-🌐 **Portfólio no ar:** [edivaldodev.online](https://edivaldodev.online)
-
 ### 🚀 Projetos em destaque
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
-| [**Extreme Team**](https://github.com/edivaldo124/SistemaEXTREMETEAM) | Sistema de gestão de academia **em produção**: área do aluno, turmas e presença, mensalidades com Pix e Checkout Pro, painel financeiro | Flask, PostgreSQL (Supabase), Mercado Pago (OAuth + PKCE), Gmail API, Docker, React Three Fiber |
+| [**Extreme Team**](https://github.com/edivaldo124/SistemaEXTREMETEAM) | Sistema de gestão de academia: área do aluno, turmas e presença, mensalidades com Pix e Checkout Pro, painel financeiro | Flask, PostgreSQL (Supabase), Mercado Pago (OAuth + PKCE), Gmail API, Docker, React Three Fiber |
 | [**Lírio**](https://github.com/edivaldo124/LojaL-rio) | Loja virtual de moda feminina com vitrine, sacola, checkout com Pix e painel administrativo | Flask 3, SQLAlchemy 2, PostgreSQL, login com Google, Tailwind |
 | [**Sistema da Pizzaria**](https://github.com/edivaldo124/sistemaPizzaria) | App do cliente para montar o pedido, com painel administrativo | Flask, SQLAlchemy, PostgreSQL |
 | [**MFV Advocacia**](https://github.com/edivaldo124/sistemaEscritorio) | Site multipágina e sistema interno de gestão (clientes, processos, agenda, documentos), feito como atividade da disciplina | Flask, Next.js, React, Tailwind |
@@ -30,4 +28,4 @@ Meu foco é back-end em **Python/Flask** com PostgreSQL. Também faço integraç
 
 ### 📫 Contato
 
-Tem um projeto ou uma vaga? Me chama pelo [edivaldodev.online](https://edivaldodev.online).
+Aberto a vagas remotas (estágio ou júnior) e a projetos freelance.
